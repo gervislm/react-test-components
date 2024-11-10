@@ -6,5 +6,11 @@
 }
 
 input {
+  display: inline;
   margin: 10px 0;
+}
+
+.video-player {
+  display: flex;
+  flex-direction: column;
 }
